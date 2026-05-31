@@ -333,9 +333,13 @@ A pull request on your fork containing:
 
   ```text
   ## Image for leaderboard
-  docker pull alicegarcia/cat-detector:final
-  Image: alicegarcia/cat-detector:final
-  Student: Alice Garcia
+ ## Image for leaderboard
+
+docker pull nargizaliyeva/cat-detector:final
+
+Image: nargizaliyeva/cat-detector:final
+Student: Nargiz Aliyeva
+Model: YOLO26 Cat Detector (ONNX exported)
   ```
 
 ### Definition of done (checklist)
